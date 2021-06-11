@@ -24,10 +24,10 @@ export const Navbar = () => {
             doxy.me Directory
           </a>
 
-          <ul id='nav-mobile' className='right hide-on-med-and-down'>
+          <ul id='nav-mobile' className='right'>
             <li>
               <a class='dropdown-trigger' href='#!' data-target='dropdown1'>
-                Need help?<i class='material-icons right'>arrow_drop_down</i>
+                <i class='material-icons right'>help_outline</i>
               </a>
             </li>
           </ul>
