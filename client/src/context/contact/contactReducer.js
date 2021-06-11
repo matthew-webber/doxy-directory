@@ -9,7 +9,6 @@ import {
 export default (state, action) => {
   switch (action.type) {
     case GET_CONTACTS:
-      console.log('payload', action.payload)
       return {
         ...state,
         contacts: action.payload.sort((a, b) =>
@@ -21,7 +20,7 @@ export default (state, action) => {
         ...state,
         filtered: state.contacts.filter((contact) => {
           const regex = new RegExp(`${action.payload}`, 'gi')
-          return contact.name.match(regex)
+          return contact.fullName.match(regex)
         }),
       }
     case CONTACT_ERROR:

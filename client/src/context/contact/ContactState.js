@@ -35,7 +35,6 @@ const ContactState = (props) => {
   // Filter contacts
   const filterContacts = (text) => {
     dispatch({type: FILTER_CONTACTS, payload: text})
-    console.log('len', state.filtered)
   }
 
   // Clear filter

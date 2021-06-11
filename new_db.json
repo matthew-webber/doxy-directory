@@ -1,40 +1,48 @@
 {
   "contacts": [{
+      "fullName": "Thomas Byrne",
       "firstName": "Thomas",
       "doxyUrl": "https://musc.doxy.me/byrne",
       "lastName": "Byrne"
     },
     {
+      "fullName": "Amy Chen",
       "firstName": "Amy",
       "doxyUrl": "https://musc.doxy.me/ichen",
       "lastName": "Chen"
     },
     {
+      "fullName": "Colston Edgerton",
       "firstName": "Colston",
       "doxyUrl": "https://musc.doxy.me/edgerton",
       "lastName": "Edgerton"
     },
     {
+      "fullName": "Kimberly Kicielinski",
       "firstName": "Kimberly",
       "doxyUrl": "https://musc.doxy.me/kkicielinski",
       "lastName": "Kicielinski"
     },
     {
+      "fullName": "Jonathan Lena",
       "firstName": "Jonathan",
       "doxyUrl": "https://musc.doxy.me/jlena",
       "lastName": "Lena"
     },
     {
+      "fullName": "Alejandro Spiotta",
       "firstName": "Alejandro",
       "doxyUrl": "https://musc.doxy.me/aspiotta",
       "lastName": "Spiotta"
     },
     {
+      "fullName": "Lauren Timmerman",
       "firstName": "Lauren",
       "doxyUrl": "https://musc.doxy.me/timmerman",
       "lastName": "Timmerman"
     },
     {
+      "fullName": "Dorothy Tyson",
       "firstName": "Dorothy",
       "doxyUrl": "https://musc.doxy.me/dorothytyson",
       "lastName": "Tyson"
@@ -42,286 +50,343 @@
 
 
     {
+      "fullName": "Rana Pullatt",
       "firstName": "Rana",
       "doxyUrl": "https://musc.doxy.me/drpullatt",
       "lastName": "Pullatt"
     },
     {
+      "fullName": "Michael Craig",
       "firstName": "Michael",
       "doxyUrl": "https://musc.doxy.me/drcraigcardiology",
       "lastName": "Craig"
     },
     {
+      "fullName": "Harsha Karanchi",
       "firstName": "Harsha",
       "doxyUrl": "https://musc.doxy.me/drkaranchi",
       "lastName": "Karanchi"
     },
     {
+      "fullName": "Meenakshi Pande",
       "firstName": "Meenakshi",
       "doxyUrl": "https://musc.doxy.me/pande",
       "lastName": "Pande"
     },
     {
+      "fullName": "Terry Day",
       "firstName": "Terry",
       "doxyUrl": "https://musc.doxy.me/drterryday",
       "lastName": "Day"
     },
     {
+      "fullName": "Hannah Feltner",
       "firstName": "Hannah",
       "doxyUrl": "https://musc.doxy.me/feltnerh",
       "lastName": "Feltner"
     },
     {
+      "fullName": "Sara Jasper",
       "firstName": "Sara",
       "doxyUrl": "https://musc.doxy.me/sarajasper",
       "lastName": "Jasper"
     },
     {
+      "fullName": "Zeke Campbell",
       "firstName": "Zeke",
       "doxyUrl": "https://musc.doxy.me/zcampbell",
       "lastName": "Campbell"
     },
     {
+      "fullName": "Julie DesMarteau",
       "firstName": "Julie",
       "doxyUrl": "https://musc.doxy.me/juliedesmarteau",
       "lastName": "DesMarteau"
     },
     {
+      "fullName": "Robert Wildman",
       "firstName": "Robert",
       "doxyUrl": "https://musc.doxy.me/wildman",
       "lastName": "Wildman"
     },
     {
+      "fullName": "Sujai Nath",
       "firstName": "Sujai",
       "doxyUrl": "https://musc.doxy.me/snath",
       "lastName": "Nath"
     },
     {
+      "fullName": "Amanda Hare",
       "firstName": "Amanda",
       "doxyUrl": "https://musc.doxy.me/ahare",
       "lastName": "Hare"
     },
     {
+      "fullName": "Travis Turner",
       "firstName": "Travis",
       "doxyUrl": "https://musc.doxy.me/tturner",
       "lastName": "Turner"
     },
     {
+      "fullName": "Mary Hegedus",
       "firstName": "Mary",
       "doxyUrl": "https://musc.doxy.me/maryhegedus",
       "lastName": "Hegedus"
     },
     {
+      "fullName": "Amber Johnson",
       "firstName": "Amber",
       "doxyUrl": "https://musc.doxy.me/amberjohnson",
       "lastName": "Johnson"
     },
     {
+      "fullName": "Julia Terese",
       "firstName": "Julia",
       "doxyUrl": "https://musc.doxy.me/juliaterese",
       "lastName": "Terese"
     },
     {
+      "fullName": "Amber Johnson",
       "firstName": "Amber",
       "doxyUrl": "https://musc.doxy.me/amberjohnson",
       "lastName": "Johnson"
     },
     {
+      "fullName": "Julia Terese",
       "firstName": "Julia",
       "doxyUrl": "https://musc.doxy.me/juliaterese",
       "lastName": "Terese"
     },
     {
+      "fullName": "Janet Carter",
       "firstName": "Janet",
       "doxyUrl": "https://musc.doxy.me/janetcarter",
       "lastName": "Carter"
     },
     {
+      "fullName": "Elise Rodriguez",
       "firstName": "Elise",
       "doxyUrl": "https://musc.doxy.me/eliserodriguez",
       "lastName": "Rodriguez"
     },
     {
+      "fullName": "Sylvia Pereira-Smith",
       "firstName": "Sylvia",
       "doxyUrl": "https://musc.doxy.me/drpereirasmith",
       "lastName": "Pereira-Smith"
     },
     {
+      "fullName": "Chung Lee",
       "firstName": "Chung",
       "doxyUrl": "https://musc.doxy.me/drlee",
       "lastName": "Lee"
     },
     {
+      "fullName": "Grace Suppa",
       "firstName": "Grace",
       "doxyUrl": "https://musc.doxy.me/gsuppa",
       "lastName": "Suppa"
     },
     {
+      "fullName": "Shayla Bergmann",
       "firstName": "Shayla",
       "doxyUrl": "https://musc.doxy.me/sellenberger",
       "lastName": "Bergmann"
     },
     {
+      "fullName": "Karen Anderson",
       "firstName": "Karen",
       "doxyUrl": "https://musc.doxy.me/karenanderson",
       "lastName": "Anderson"
     },
     {
+      "fullName": "Misty Corrigan",
       "firstName": "Misty",
       "doxyUrl": "https://musc.doxy.me/mcorrigan",
       "lastName": "Corrigan"
     },
     {
+      "fullName": "Jared Nix",
       "firstName": "Jared",
       "doxyUrl": "https://musc.doxy.me/jnix",
       "lastName": "Nix"
     },
     {
+      "fullName": "Kevin Delaney",
       "firstName": "Kevin",
       "doxyUrl": "https://musc.doxy.me/kdelaney",
       "lastName": "Delaney"
     },
     {
+      "fullName": "Annie Bass",
       "firstName": "Annie",
       "doxyUrl": "https://musc.doxy.me/abass",
       "lastName": "Bass"
     },
     {
+      "fullName": "Kimsey Cooper",
       "firstName": "Kimsey",
       "doxyUrl": "https://musc.doxy.me/hec",
       "lastName": "Cooper"
     },
     {
+      "fullName": "Cassie Frazier",
       "firstName": "Cassie",
       "doxyUrl": "https://musc.doxy.me/cfrazier",
       "lastName": "Frazier"
     },
     {
+      "fullName": "Chadrick Denlinger",
       "firstName": "Chadrick",
       "doxyUrl": "https://musc.doxy.me/cdenlinger",
       "lastName": "Denlinger"
     },
     {
+      "fullName": "Larisa Diffley",
       "firstName": "Larisa",
       "doxyUrl": "https://musc.doxy.me/thoracicsurgery",
       "lastName": "Diffley"
     },
     {
+      "fullName": "Barry Gibney",
       "firstName": "Barry",
       "doxyUrl": "https://musc.doxy.me/thoracic",
       "lastName": "Gibney"
     },
     {
+      "fullName": "Margaret Ramsden",
       "firstName": "Margaret",
       "doxyUrl": "https://musc.doxy.me/mramsden",
       "lastName": "Ramsden"
     },
     {
+      "fullName": "Luca Paoletti",
       "firstName": "Luca",
       "doxyUrl": "https://musc.doxy.me/drpaoletti",
       "lastName": "Paoletti"
     },
     {
+      "fullName": "Tim Whelan",
       "firstName": "Tim",
       "doxyUrl": "https://musc.doxy.me/drtimwhelan",
       "lastName": "Whelan"
     },
     {
+      "fullName": "Jessica Mullins",
       "firstName": "Jessica",
       "doxyUrl": "https://musc.doxy.me/advancedlungdiseaseandtransplant",
       "lastName": "Mullins"
     },
     {
+      "fullName": "Amy Wisse",
       "firstName": "Amy",
       "doxyUrl": "https://musc.doxy.me/ltx",
       "lastName": "Wisse"
     },
     {
+      "fullName": "Michael Casey",
       "firstName": "Michael",
       "doxyUrl": "https://musc.doxy.me/mcasey",
       "lastName": "Casey"
     },
     {
+      "fullName": "Lee Erbe",
       "firstName": "Lee",
       "doxyUrl": "https://musc.doxy.me/lerbe",
       "lastName": "Erbe"
     },
     {
+      "fullName": "Bridgette Kadri",
       "firstName": "Bridgette",
       "doxyUrl": "https://musc.doxy.me/bkadri",
       "lastName": "Kadri"
     },
     {
+      "fullName": "Muriel Labonte",
       "firstName": "Muriel",
       "doxyUrl": "https://musc.doxy.me/mlabonte",
       "lastName": "Labonte"
     },
     {
+      "fullName": "Aurora Posadas",
       "firstName": "Aurora",
       "doxyUrl": "https://musc.doxy.me/mposadas-salas",
       "lastName": "Posadas"
     },
     {
+      "fullName": "Vinaya Rao",
       "firstName": "Vinaya",
       "doxyUrl": "https://musc.doxy.me/vrao",
       "lastName": "Rao"
     },
     {
+      "fullName": "Mary Shearer",
       "firstName": "Mary",
       "doxyUrl": "https://musc.doxy.me/mshearer",
       "lastName": "Shearer"
     },
     {
+      "fullName": "Karim Soliman",
       "firstName": "Karim",
       "doxyUrl": "https://musc.doxy.me/ksoliman",
       "lastName": "Soliman"
     },
     {
+      "fullName": "Carlos Zayas",
       "firstName": "Carlos",
       "doxyUrl": "https://musc.doxy.me/czayas",
       "lastName": "Zayas"
     },
     {
+      "fullName": "Shannon Cornell",
       "firstName": "Shannon",
       "doxyUrl": "https://musc.doxy.me/shannoncornellchfapp",
       "lastName": "Cornell"
     },
     {
+      "fullName": "Hwajoo Haynes",
       "firstName": "Hwajoo",
       "doxyUrl": "https://musc.doxy.me/hwajoohaynes",
       "lastName": "Haynes"
     },
     {
+      "fullName": "Katie Law",
       "firstName": "Katie",
       "doxyUrl": "https://musc.doxy.me/kathleenl",
       "lastName": "Law"
     },
     {
+      "fullName": "Jessica Martissa",
       "firstName": "Jessica",
       "doxyUrl": "https://musc.doxy.me/transplantclinic",
       "lastName": "Martissa"
     },
     {
+      "fullName": "Tina Tepatti",
       "firstName": "Tina",
       "doxyUrl": "https://musc.doxy.me/ctepatti",
       "lastName": "Tepatti"
     },
     {
+      "fullName": "Thomas Brothers",
       "firstName": "Thomas",
       "doxyUrl": "https://musc.doxy.me/brothersvascularsurgery",
       "lastName": "Brothers"
     },
     {
+      "fullName": "Ravikumar Veeraswamy",
       "firstName": "Ravikumar",
       "doxyUrl": "https://musc.doxy.me/rveeraswamy",
       "lastName": "Veeraswamy"
     },
     {
+      "fullName": "Marcelo Guimaraes",
       "firstName": "Marcelo",
       "doxyUrl": "https://musc.doxy.me/mguimaraes",
       "lastName": "Guimaraes"
     },
     {
+      "fullName": "Ricardo Yamada",
       "firstName": "Ricardo",
       "doxyUrl": "https://musc.doxy.me/ryamada",
       "lastName": "Yamada"
