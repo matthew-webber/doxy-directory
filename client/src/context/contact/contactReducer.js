@@ -12,7 +12,9 @@ export default (state, action) => {
       console.log('payload', action.payload)
       return {
         ...state,
-        contacts: action.payload,
+        contacts: action.payload.sort((a, b) =>
+          a.lastName > b.lastName ? 1 : -1
+        ),
       }
     case FILTER_CONTACTS:
       return {

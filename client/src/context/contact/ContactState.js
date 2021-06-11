@@ -23,15 +23,9 @@ const ContactState = (props) => {
     try {
       const res = await fetch('/contacts')
       const data = await res.json()
-      console.log('resDATA', res)
       let contacts = []
-      data.forEach((contact) => {
-        contacts.push({
-          name: contact.name,
-          url: contact.doxyUrl,
-        })
-      })
-      dispatch({type: GET_CONTACTS, payload: contacts})
+
+      dispatch({type: GET_CONTACTS, payload: data})
     } catch (err) {
       console.error(err)
       dispatch({type: CONTACT_ERROR, payload: err.response})
