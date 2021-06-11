@@ -1,0 +1,5 @@
+export const FILTER_CONTACTS = 'FILTER_CONTACTS'
+export const CONTACT_ERROR = 'CONTACT_ERROR'
+export const GET_CONTACTS = 'GET_CONTACTS'
+export const CLEAR_FILTER = 'CLEAR_FILTER'
+export const CLEAR_ERROR = 'CLEAR_ERROR'
