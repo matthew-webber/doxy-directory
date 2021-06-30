@@ -1,5 +1,12 @@
 {
-  "contacts": [{
+  "contacts": [
+    {
+    "fullName": "Denzil Coleman",
+    "firstName": "Denzil",
+    "doxyUrl": "https://musc.doxy.me/denzilcoleman",
+    "lastName": "Coleman"
+    },
+    {
       "fullName": "Thomas Byrne",
       "firstName": "Thomas",
       "doxyUrl": "https://musc.doxy.me/byrne",
