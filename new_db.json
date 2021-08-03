@@ -7,6 +7,12 @@
     "lastName": "Coleman"
     },
     {
+      "fullName": "Stephanie Petersen",
+      "firstName": "Stephanie",
+      "doxyUrl": "https://musc.doxy.me/spetersen",
+      "lastName": "Petersen"
+      },
+    {
       "fullName": "Michael Ullian",
       "firstName": "Michael",
       "doxyUrl": "https://musc.doxy.me/mullian",
