@@ -5,3 +5,15 @@
 p {
   color: red;
 }
+
+#navbar-link-icon {
+  font-size: 1rem !important;
+}
+
+#menu-link-icon {
+  margin-left: 1rem;
+}
+
+.sidenav li > a {
+  display: flex !important;
+}
