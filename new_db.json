@@ -11,19 +11,19 @@
       "firstName": "Stephanie",
       "doxyUrl": "https://musc.doxy.me/spetersen",
       "lastName": "Petersen"
-      },
+    },
     {
       "fullName": "Michael Ullian",
       "firstName": "Michael",
       "doxyUrl": "https://musc.doxy.me/mullian",
       "lastName": "Ullian"
-      },
-      {
-        "fullName": "Katherine Morgan",
-        "firstName": "Katherine",
-        "doxyUrl": "https://musc.doxy.me/kmorgan",
-        "lastName": "Morgan"
-        },
+    },
+    {
+      "fullName": "Katherine Morgan",
+      "firstName": "Katherine",
+      "doxyUrl": "https://musc.doxy.me/kmorgan",
+      "lastName": "Morgan"
+    },
     {
       "fullName": "Thomas Byrne",
       "firstName": "Thomas",
@@ -425,6 +425,12 @@
       "firstName": "Rodney",
       "doxyUrl": "https://musc.doxy.me/#",
       "lastName": "Williams"
+    },
+    {
+      "fullName": "Ryan Lau",
+      "firstName": "Ryan",
+      "doxyUrl": "https://musc.doxy.me/ryanlau",
+      "lastName": "Lau"
     }
   ]
 }
