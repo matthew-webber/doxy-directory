@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "json-server all_db.json --port 5000",
+    "server": "json-server new_db.json --port 5000",
     "start": "node server.js",
     "client": "npm start --prefix client",
     "clientinstall": "npm install --prefix client",
