@@ -91,12 +91,6 @@
       "lastName": "Karanchi"
     },
     {
-      "fullName": "Meenakshi Pande",
-      "firstName": "Meenakshi",
-      "doxyUrl": "https://musc.doxy.me/pande",
-      "lastName": "Pande"
-    },
-    {
       "fullName": "Terry Day",
       "firstName": "Terry",
       "doxyUrl": "https://musc.doxy.me/drterryday",
@@ -423,8 +417,14 @@
     {
       "fullName": "Rodney Williams",
       "firstName": "Rodney",
-      "doxyUrl": "https://musc.doxy.me/#",
+      "doxyUrl": "https://musc.doxy.me/drrwilliams",
       "lastName": "Williams"
+    },
+    {
+      "fullName": "Prince Anand",
+      "firstName": "Prince",
+      "doxyUrl": "https://musc.doxy.me/pma",
+      "lastName": "Anand"
     },
     {
       "fullName": "Ryan Lau",
