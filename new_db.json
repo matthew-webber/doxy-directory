@@ -461,6 +461,18 @@
       "firstName": "Matthew",
       "doxyUrl": "https://musc.doxy.me/mattbogartfnp",
       "lastName": "Bogart"
+    },
+    {
+      "fullName": "Maggie Dorsett",
+      "firstName": "Maggie",
+      "doxyUrl": "https://musc.doxy.me/maggiedorsett",
+      "lastName": "Dorsett"
+    },
+    {
+      "fullName": "Chad Davis",
+      "firstName": "Chad",
+      "doxyUrl": "https://musc.doxy.me/cdavis",
+      "lastName": "Davis"
     }
   ]
 }
