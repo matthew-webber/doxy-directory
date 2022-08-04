@@ -473,6 +473,12 @@
       "firstName": "Chad",
       "doxyUrl": "https://musc.doxy.me/cdavis",
       "lastName": "Davis"
+    },
+    {
+      "fullName": "Katherine Bridges",
+      "firstName": "Katherine",
+      "doxyUrl": "https://musc.doxy.me/kbridges",
+      "lastName": "Bridges"
     }
   ]
 }
