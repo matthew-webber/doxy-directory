@@ -2,11 +2,10 @@
   "name": "doxy-directory",
   "version": "1.0.0",
   "description": "Directory of MUSC Doxy.me rooms and URLs",
-  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "json-server new_db.json --port 5000",
-    "start": "npm run server",
+    "start": "node server.js",
     "client": "npm start --prefix client",
     "clientinstall": "npm install --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
