@@ -4,7 +4,7 @@ const path = require('path')
 const middlewares = jsonServer.defaults({static: './client'})
 const router = jsonServer.router(path.join(__dirname, 'new_db.json'))
 const port = process.env.PORT || 10000
-import express from 'express'
+const express = require('express')
 const app = express()
 
 server.use(middlewares)
