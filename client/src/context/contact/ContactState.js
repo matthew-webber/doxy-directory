@@ -21,7 +21,7 @@ const ContactState = (props) => {
   // Get contacts
   const getContacts = async () => {
     try {
-      const res = await fetch('/contacts')
+      const res = await fetch('api/contacts')
       const data = await res.json()
       let contacts = []
 

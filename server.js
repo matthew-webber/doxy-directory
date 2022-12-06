@@ -4,9 +4,11 @@ const path = require('path')
 const middlewares = jsonServer.defaults({static: './client'})
 const router = jsonServer.router(path.join(__dirname, 'new_db.json'))
 const port = process.env.PORT || 10000
+import express from 'express'
+const app = express()
 
 server.use(middlewares)
-server.use(router)
+server.use('/api', router)
 // app.use(express.static(path.join(__dirname, 'client', 'build')))
 
 // app.get('/*', function (req, res) {
@@ -14,14 +16,12 @@ server.use(router)
 //   res.sendFile(path.join(__dirname, 'client', 'build', 'index.html'))
 // })
 
-// if (true) {
-// if (process.env.NODE_ENV === 'production') {
-//   console.log(path.resolve('client', 'build', 'index.html'), 'hello')
-//   app.use(express.static('client/build'))
-//   app.get('*', (req, res) => res.sendFile(path.resolve('client', 'build', 'index.html')));
-// } else {
-//   console.log('hello')
-// }
+if (process.env.NODE_ENV === 'production') {
+  app.use(express.static('client/build'))
+  app.get('*', (req, res) => res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html')));
+} else {
+  console.log('node env is NOT production')
+}
 
 server.listen(port, () => {
   console.log(`Server started on port ${port}.`)
